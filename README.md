@@ -1,2 +1,15 @@
-# Smart-Parking-Space-Detector-using-YOLO-and-OpenCV
-This project is an AI-driven car parking monitoring system that uses YOLO (You Only Look Once) object detection and OpenCV to detect occupied and free parking spaces in real-time. It enhances parking management by automating vehicle detection and slot monitoring, reducing human effort and errors.
+# Car_Parking_Space_Detector_YOLOv8
+
+This project harnesses the cutting-edge capabilities of YOLOv8n (You Only Look Once) to intelligently detect objects in parking areas and accurately determine parking space availability.
+
+🔹 Key Features:
+
+Real-time detection of vehicles in parking zones.
+Smart recognition of parking slots using predefined polygons.
+Automatic counting of occupied and free spaces with instant updates.
+Visual highlights of detected vehicles for enhanced monitoring.
+This solution brings efficiency and accuracy to parking management, transforming how we handle space utilization in smart cities, shopping malls, and beyond!
+
+
+
+#AI #YOLOv8 #SmartParking #ObjectDetection #DeepLearning #ComputerVision #AIinAction #Innovation #ParkingTech #TechSolutions
