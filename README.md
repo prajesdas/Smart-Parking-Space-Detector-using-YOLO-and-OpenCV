@@ -66,6 +66,3 @@ This project is **MIT Licensed**. Feel free to use and modify it.
 For any queries, reach out to **Prajes Das** via GitHub.  
 
 🔗 [GitHub Repository](https://github.com/prajesdas/Smart-Parking-Space-Detector-using-YOLO-and-OpenCV)  
-```
-
----
